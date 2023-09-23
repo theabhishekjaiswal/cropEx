@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name" translatable="false">cropEx</string>
+    <string name="appname" translatable="false">cropEx</string>
+    <string name="team_name" translatable="false">Team Healing Hands</string>
+    <string name="search">Search...</string>
+    <string name="infected_plant_details">Infected Plant Details</string>
+    <string name="write_your_name">Write your name</string>
+    <string name="explain_your_problem">Explain your problem</string>
+    <string name="enter_crop_type">Enter Crop type</string>
+    <string name="save">Save</string>
+    <string name="name">Name</string>
+    <string name="your_problem_details">Your Problem Details</string>
+    <string name="solutions_provided_by_our_experts">Solutions provided by Our Experts</string>
+    <string name="hello_n_farmer_friends">Hello,\n Farmer Friends</string>
+    <string name="ask_expert">Ask Expert</string>
+    <string name="view_solutions">View Solutions</string>
+    <string name="home">Home</string>
+    <string name="expert_posts">Expert Posts</string>
+    <string name="chat">Chat</string>
+    <string name="shop">Shop</string>
+    <string name="languages">Languages</string>
+    <string name="write_here">Write here...</string>
+</resources>

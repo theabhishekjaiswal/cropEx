@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search">खोज...</string>
+    <string name="infected_plant_details">संक्रमित पौधे का विवरण</string>
+    <string name="write_your_name">"अपना नाम लिखो "</string>
+    <string name="explain_your_problem">अपनी समस्या बताएं</string>
+    <string name="enter_crop_type">फसल का प्रकार दर्ज करें</string>
+    <string name="save">" जमा करना"</string>
+    <string name="name">नाम</string>
+    <string name="your_problem_details">आपकी समस्या का विवरण</string>
+    <string name="solutions_provided_by_our_experts">हमारे विशेषज्ञों द्वारा प्रदान किए गए समाधान</string>
+    <string name="ask_expert">" विशेषज्ञ से पूछें"</string>
+    <string name="view_solutions">" समाधान देखें"</string>
+    <string name="home">"होम "</string>
+    <string name="expert_posts">विशेषज्ञ पोस्ट</string>
+    <string name="chat">समूह</string>
+    <string name="shop">खरीदारी</string>
+    <string name="languages">भाषा</string>
+    <string name="hello_n_farmer_friends">नमस्ते ! प्यारे किसान मित्रो</string>
+    <string name="write_here">" यहाँ लिखें"</string>
+</resources>

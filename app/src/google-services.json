@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "768666384392",
+    "project_id": "thh-cropex",
+    "storage_bucket": "thh-cropex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768666384392:android:f7271c04391a8f166879bd",
+        "android_client_info": {
+          "package_name": "com.teamhealinghands.cropex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6LEGUj-QnpZ1c0YNXNFMF0HudgJtc1yE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search">" অনুসন্ধান করুন..."</string>
+    <string name="infected_plant_details">সংক্রমিত উদ্ভিদ বিবরণ</string>
+    <string name="write_your_name">"তোমার নাম লিখ "</string>
+    <string name="explain_your_problem">আপনার সমস্যা ব্যাখ্যা করুন</string>
+    <string name="enter_crop_type">ক্রপ টাইপ লিখুন</string>
+    <string name="save">" নিবন্ধন"</string>
+    <string name="name">" নাম"</string>
+    <string name="your_problem_details">আপনার সমস্যার বিবরণ</string>
+    <string name="solutions_provided_by_our_experts">আমাদের বিশেষজ্ঞদের দ্বারা উপলব্ধ সমাধান</string>
+    <string name="ask_expert">বিশেষজ্ঞকে জিজ্ঞাসা করুন</string>
+    <string name="view_solutions">সমাধান দেখুন</string>
+    <string name="home">হোম</string>
+    <string name="expert_posts">বিশেষজ্ঞ পোস্ট</string>
+    <string name="chat">চ্যাট</string>
+    <string name="shop">কেনাকাটা</string>
+    <string name="languages">ভাষা</string>
+    <string name="hello_n_farmer_friends">হ্যালো ! আমার প্রিয় কৃষক বন্ধুরা</string>
+    <string name="write_here">এখানে লিখ</string>
+</resources>
